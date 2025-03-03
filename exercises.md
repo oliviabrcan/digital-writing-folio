@@ -5,9 +5,5 @@ I am looking forward to learning how to digital write and use the programs suppl
 
 After setting up GitHub, I am thoroughly confused. However, I love how organised and structured the site is. Everything has a spot and you can create file after file to separate everything which I appreciate. Although the coding itself is confusing, I think it will be quick to pick up once I understand what everything means and does.
 
-### Reading Questions
-Select one work from each volume and answer the below for each.
-- What makes the work a piece of digital writing?
-- A personal response (whether you liked it, how it made you feel, etc)
 
   
