@@ -7,3 +7,10 @@ After setting up GitHub, I am thoroughly confused. However, I love how organised
 
 
   
+## Week 3
+### Reflection (17/3/25)
+How do you feel about coding now versus how you felt going into this in Week 1?
+I feel extremely confused. I know what we're supposed to be doing but I don't actually KNOW. Everything has a meaning that I actually have no idea what they mean.
+
+Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+I don't read e-lit, but I understand that everything we see has a code that someone has written out for what we see. 
