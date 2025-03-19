@@ -22,16 +22,11 @@ e wie sir under is sui inies o a uorescen ue as e scurries across e viran ance o
 
 ### Mesostics
 
-   out of alL
-   
+  out of alL
       the peOple
-      
             No one
-            
     could evEr
-    
  make me feeL
- 
         okaY
         
 ### N+7
