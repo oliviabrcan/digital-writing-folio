@@ -21,13 +21,7 @@ The white shirt under his suit ignites to a fluorescent blue as he scurries acro
 e wie sir under is sui inies o a uorescen ue as e scurries across e viran ance oor o e oen i ar, e ucks is arms ino is o arms ino is o as a are, row rou osiion emseves on o o im. A ew o em ean over e ar, no ou o sea emseves rom a swirin min, eective ocin is view o e e sie o im.
 
 ### Mesostics
-
-  out of alL
-      the peOple
-            No one
-    could evEr
- make me feeL
-        okaY
+(in sticky note)
         
 ### N+7
 
