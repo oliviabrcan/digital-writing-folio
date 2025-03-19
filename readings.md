@@ -28,4 +28,10 @@ This piece is also interactive, in fact, you can't read it without interacting w
 
 I thought it was cool how the letters take shape of the person standing in front of them to form the poem and how you have to be still to read it. In the introductory paragraph the creators mentioned art and the fast pace at which it is observed. This piece basically forces you to stop and truly observe it to see it all and I think that's cool.
 
+## Week 3
 
+What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+How are those elements meaningful?
+How are the works read differently from print literature?
+How is electronic literature different from print literature?
+What are the qualities of the works we might consider as qualities of electronic literature?
