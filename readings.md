@@ -30,8 +30,16 @@ I thought it was cool how the letters take shape of the person standing in front
 
 ## Week 3
 
-What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
-How are those elements meaningful?
-How are the works read differently from print literature?
-How is electronic literature different from print literature?
-What are the qualities of the works we might consider as qualities of electronic literature?
+### What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+
+### How are those elements meaningful?
+
+### How are the works read differently from print literature?
+
+### How is electronic literature different from print literature?
+
+### What are the qualities of the works we might consider as qualities of electronic literature?
+
+## Week 5
+
+### What do you think of Aarseth's concept? Explain how it offers an alternative to conventional ideas of narrative and the role of reader and writer?
