@@ -13,7 +13,7 @@ I feel extremely confused. I know what we're supposed to be doing but I don't ac
 
 - Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 
-I don't read e-lit, but I understand that everything we see has a code that someone has written out for what we see. 
+I don't read e-lit, but I understand that everything we see has a code that someone has written out.
 
 ## Algorithm and Constraint
 ### Lipograms
