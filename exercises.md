@@ -29,7 +29,7 @@ e wie sir under is sui inies o a uorescen ue as e scurries across e viran ance o
 # Week 5
 ## Proposals discussion and reflections (2/4/25)
 
-### What is emerging for you in terms of your own piece toward Assessment 2 and 3
+### What is emerging for you in terms of your own piece toward Assessment 2 and 3?
 
 I would like to create an interactive fiction piece. I'm more confident writing fiction and really like the idea of giving readers agency when it comes to the narrative. Being able to explore different options and pathways is super interesting and something I've never done before, but something I would like to do for my folio piece.
 
