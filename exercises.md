@@ -7,11 +7,11 @@ After setting up GitHub, I am thoroughly confused. However, I love how organised
 # Week 3
 ## Reflection (17/3/25)
 
-### How do you feel about coding now versus how you felt going into this in Week 1?
+- How do you feel about coding now versus how you felt going into this in Week 1?
 
 I feel extremely confused. I know what we're supposed to be doing but I don't actually KNOW. Everything has a meaning that I actually have no idea what they mean.
 
-### Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+- Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 
 I don't read e-lit, but I understand that everything we see has a code that someone has written out for what we see. 
 
@@ -29,19 +29,19 @@ e wie sir under is sui inies o a uorescen ue as e scurries across e viran ance o
 # Week 5
 ## Proposals discussion and reflections (2/4/25)
 
-### What is emerging for you in terms of your own piece toward Assessment 2 and 3?
+- What is emerging for you in terms of your own piece toward Assessment 2 and 3?
 
 I would like to create an interactive fiction piece. I'm more confident writing fiction and really like the idea of giving readers agency when it comes to the narrative. Being able to explore different options and pathways is super interesting and something I've never done before, but something I would like to do for my folio piece.
 
-### What platform and technology does it require?
+- What platform and technology does it require?
 
 I'm thinking Twine will be the best option for me.
 
-### Do you know already if you can make it?
+- Do you know already if you can make it?
 
 I cannot already make it. I am not familiar enough with Twine or any other platform to start anything.
 
-### What else do you need to learn in order to execute your vision for this piece?
+- What else do you need to learn in order to execute your vision for this piece?
 
 I need to gain a lot more skills and knowledge on Twine before I can start anything as I currently barely know anything. The most I can do right now to organise my folio piece is to plan out the story.
 
