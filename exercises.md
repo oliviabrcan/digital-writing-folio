@@ -53,3 +53,18 @@ Aarseth’s ideas and concepts were all things I hadn’t thought about that dee
 
 Referring to the narrative and roles of the writer and readers, there’s a lot of separation. Narrative isn’t always part of a hypertext, and the writer always has control over the text despite any interactivity because the writer created everything and just gave the options to the reader. Aarseth also mentions at one point that the writer can “change or add parts to the text, without any reader’s knowledge” (p. 81) which kind of feels like a betrayal. However, I do think that with electronic literature, specifically interactive fiction, the writer's text can’t function without a reader, therefore they must work together to see the piece as it should be seen.
 
+# Week 6
+## House on the Hill
+
+- How does this work make you reflect on your own ideas and what you might do for your own piece? Requirement for final folio write 250 to 300 (minimum) words on this.
+
+House on the Hill was very interesting to work through when considering how it was made, the interactivity, the plot, visuals, etc. It reminded me a lot of an old video game since the images were 2D and pixelated, same as the figure/main character that you played, and also alike the text typed into the textbox on the screen. Each room was made up of a few sahes of purple and the interactive elements were white so you knew where to move the character to. Arrows were drawn on the ground to guide you around the room as well, which was good because they were the only guiding factors in the entire piece. At the start, I didn't know how to move or play the game, it was a bit of pressing buttons on the keyboard until something happened which didn't take long becuase every button I pressed progressed the narration in the textbox.
+
+I was able to move through the rooms in the house at my own pace and replay certain pieces however many times I wanted. It was cool how the story couldn't move without the player, and despite not having control over what the story was, they had control over how they were going to recieve the story and in what order. As you move throught he rooms it's like you level up and achieve more information about the haunted house and family secrets, unlocking characters and eventually leaving the house with knowledge you didn't have at the start.
+
+In terms of my own writing, I don't think I will take much from this piece. Iwould rather my final piece to read more like interactive fiction rather than a video game, with less interactivity than 'House on the Hill'. Despite that difference, I do apreciate the narrative structure and how it progresses as the player moves through the game. The striking visuals also helped immerse me in the world created becuase I could see everything in the room, I could approach it and sometimes even interact with it. Although not to that level, including visuals that work with the story and maintain reader engagement is something really important and something I think will be vital in my own piece.
+
+
+
+
+
