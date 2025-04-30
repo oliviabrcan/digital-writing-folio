@@ -65,7 +65,7 @@ I was able to move through the rooms in the house at my own pace and replay cert
 In terms of my own writing, I don't think I will take much from this piece. Iwould rather my final piece to read more like interactive fiction rather than a video game, with less interactivity than 'House on the Hill'. Despite that difference, I do apreciate the narrative structure and how it progresses as the player moves through the game. The striking visuals also helped immerse me in the world created becuase I could see everything in the room, I could approach it and sometimes even interact with it. Although not to that level, including visuals that work with the story and maintain reader engagement is something really important and something I think will be vital in my own piece.
 
 # Week 8 
-## Reflection and Progress
+## Reflection and Progress (30/04/25)
 
 ### What has been introduced? 
 -	Summarise your proposed piece
