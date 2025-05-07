@@ -127,3 +127,8 @@ What I've planned to do so far on Twine sounds very doable, I don't think my ide
 - What else might be an obstacle?
 
 I think writing the short stories (dreams) might be one of the more difficutl tasks because I'm not sure how I want to structure them yet and there's four different plots I need to write.
+
+# Week 9
+### Write a summary and reflection on the feedback you recieved and a plan for the next few weeks
+
+
