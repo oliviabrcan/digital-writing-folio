@@ -132,5 +132,5 @@ I think writing the short stories (dreams) might be one of the more difficutl ta
 ## Reflection and Progress - (7/5/25)
 
 ### Write a summary and reflection on the feedback you recieved and a plan for the next few weeks
-
+The plot I've planned out is solid and very structured becuase I didn't want to have too many branches of text sicne that's too much work for me and I don't have time to have multiple different outcomes. I want to have the entire plot written in a word doc by next Wednesday so I can jump into coding it in Twine. 
 
