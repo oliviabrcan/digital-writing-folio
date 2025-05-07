@@ -131,6 +131,6 @@ I think writing the short stories (dreams) might be one of the more difficutl ta
 # Week 9
 ## Reflection and Progress - (7/5/25)
 
-Write a summary and reflection on the feedback you recieved and a plan for the next few weeks
+### Write a summary and reflection on the feedback you recieved and a plan for the next few weeks
 
 
