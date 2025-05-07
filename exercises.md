@@ -5,7 +5,7 @@ I am looking forward to learning how to digital write and use the programs suppl
 After setting up GitHub, I am thoroughly confused. However, I love how organised and structured the site is. Everything has a spot and you can create file after file to separate everything which I appreciate. Although the coding itself is confusing, I think it will be quick to pick up once I understand what everything means and does.
   
 # Week 3
-## Reflection (17/3/25)
+## Reflection - (17/3/25)
 
 - How do you feel about coding now versus how you felt going into this in Week 1?
 
@@ -27,7 +27,7 @@ e wie sir under is sui inies o a uorescen ue as e scurries across e viran ance o
 (in sticky note)
         
 # Week 5
-## Proposals discussion and reflections (2/4/25)
+## Proposals discussion and reflections - (2/4/25)
 
 - What is emerging for you in terms of your own piece toward Assessment 2 and 3?
 
@@ -65,7 +65,7 @@ I was able to move through the rooms in the house at my own pace and replay cert
 In terms of my own writing, I don't think I will take much from this piece. Iwould rather my final piece to read more like interactive fiction rather than a video game, with less interactivity than 'House on the Hill'. Despite that difference, I do apreciate the narrative structure and how it progresses as the player moves through the game. The striking visuals also helped immerse me in the world created becuase I could see everything in the room, I could approach it and sometimes even interact with it. Although not to that level, including visuals that work with the story and maintain reader engagement is something really important and something I think will be vital in my own piece.
 
 # Week 8 
-## Reflection and Progress (30/04/25)
+## Reflection and Progress - (30/04/25)
 
 ### What has been introduced? 
 -	Summarise your proposed piece
@@ -129,7 +129,7 @@ What I've planned to do so far on Twine sounds very doable, I don't think my ide
 I think writing the short stories (dreams) might be one of the more difficutl tasks because I'm not sure how I want to structure them yet and there's four different plots I need to write.
 
 # Week 9
-## Reflection and Progress (7/5/25)
+## Reflection and Progress - (7/5/25)
 
 Write a summary and reflection on the feedback you recieved and a plan for the next few weeks
 
