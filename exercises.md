@@ -126,3 +126,17 @@ I think writing the short stories (dreams) might be one of the more difficutl ta
 ### Write a summary and reflection on the feedback you recieved and a plan for the next few weeks
 The plot I've planned out is solid and very structured becuase I didn't want to have too many branches of text sicne that's too much work for me and I don't have time to have multiple different outcomes. I want to have the entire plot written in a word doc by next Wednesday so I can jump into coding it in Twine. 
 
+
+# Week 10
+
+- What were your expectations coming into the class and what have you learnt?
+
+My expectations were something about hoping to learn a lot of new things and see where coding and digital writing took my own writing, both in itself and the structure of it. I've learnt a lot about digital writing and coding like I expected, and have been familiarising myself mostly with Twine and Glitch over the semester. Learning how to make interactive fiction on Twine has been very interesting and where I've learnt the most.
+
+- How has your creative writing practice developed? Are there new directions? Or perhaps it has confirmed something about your practice as it was?
+
+My practice has developed through this new knowledge of coding on digital platforms. Other than that, my writing itself hasn't changed much, it's how I'm displaying my writing for this class (digitally) which is different.
+
+- What particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
+
+I don't think I want to work on Twine or any other digital writing platform professionally, but maybe I would play around with it for fun or in my free time. In saying that, I prefer analogue writing a lot more compared to digital writing, maybe becuase it's easier, or maybe becuase it's just what I'm used to and a lot more accessible and popular with readers.
