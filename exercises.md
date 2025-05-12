@@ -45,18 +45,10 @@ I cannot already make it. I am not familiar enough with Twine or any other platf
 
 I need to gain a lot more skills and knowledge on Twine before I can start anything as I currently barely know anything. The most I can do right now to organise my folio piece is to plan out the story.
 
-## Aarseth's Reading
-
-- What do you think of Aarseth's concept? Explain how it offers an alternative to conventional ideas of narrative and the role of reader and writer?
-
-Aarseth’s ideas and concepts were all things I hadn’t thought about that deeply and informed me to new ways of thinking. Many things were discussed, but one of the first points raised was the question of where hypertexts and electronic literature in general belong. Unlike physical books, it cannot be reproduced for consumers and will always belong to the platform it was published on and the author themselves. People can’t buy their own copy and keep it on a bookshelf and even though that’s obvious now that I read about it, it’s crazy to think about this idea of belonging, and how not all literature has that option. Additionally, it feels like the reader is just passing by, never sticking around after reading the piece. Whereas with a physical book, they read it and keep it close by, probably also somewhere on display like a bookshelf.
-
-Referring to the narrative and roles of the writer and readers, there’s a lot of separation. Narrative isn’t always part of a hypertext, and the writer always has control over the text despite any interactivity because the writer created everything and just gave the options to the reader. Aarseth also mentions at one point that the writer can “change or add parts to the text, without any reader’s knowledge” (p. 81) which kind of feels like a betrayal. However, I do think that with electronic literature, specifically interactive fiction, the writer's text can’t function without a reader, therefore they must work together to see the piece as it should be seen.
-
 # Week 6
 ## House on the Hill
 
-- How does this work make you reflect on your own ideas and what you might do for your own piece? Requirement for final folio write 250 to 300 (minimum) words on this.
+- How does this work make you reflect on your own ideas and what you might do for your own piece?
 
 House on the Hill was very interesting to work through when considering how it was made, the interactivity, the plot, visuals, etc. It reminded me a lot of an old video game since the images were 2D and pixelated, same as the figure/main character that you played, and also alike the text typed into the textbox on the screen. Each room was made up of a few sahes of purple and the interactive elements were white so you knew where to move the character to. Arrows were drawn on the ground to guide you around the room as well, which was good because they were the only guiding factors in the entire piece. At the start, I didn't know how to move or play the game, it was a bit of pressing buttons on the keyboard until something happened which didn't take long becuase every button I pressed progressed the narration in the textbox.
 
