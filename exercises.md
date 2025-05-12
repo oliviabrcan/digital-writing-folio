@@ -11,9 +11,11 @@ After setting up GitHub, I am thoroughly confused. However, I love how organised
 
 I feel extremely confused. I know what we're supposed to be doing but I don't actually KNOW. Everything has a meaning that I actually have no idea what they mean.
 
+
 - Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 
 I don't read e-lit, but I understand that everything we see has a code that someone has written out.
+
 
 ## Algorithm and Constraint
 ### Lipograms
@@ -33,17 +35,21 @@ e wie sir under is sui inies o a uorescen ue as e scurries across e viran ance o
 
 I would like to create an interactive fiction piece. I'm more confident writing fiction and really like the idea of giving readers agency when it comes to the narrative. Being able to explore different options and pathways is super interesting and something I've never done before, but something I would like to do for my folio piece.
 
+
 - What platform and technology does it require?
 
 I'm thinking Twine will be the best option for me.
+
 
 - Do you know already if you can make it?
 
 I cannot already make it. I am not familiar enough with Twine or any other platform to start anything.
 
+
 - What else do you need to learn in order to execute your vision for this piece?
 
 I need to gain a lot more skills and knowledge on Twine before I can start anything as I currently barely know anything. The most I can do right now to organise my folio piece is to plan out the story.
+
 
 # Week 6
 ## House on the Hill
@@ -64,17 +70,21 @@ In terms of my own writing, I don't think I will take much from this piece. Iwou
 
 My piece follows one character through four different destinations of a dreamworld, and each destination will include a short story of a dream. However, the reader doesn’t know this is a dream world until the end, when it is revealed to them.
 
+
 -	What themes and ideas is your piece exploring?
 
 There will be themes of fear, the unknown, death, identity, and maybe power. Each short story will likely explore different themes.
+
 
 -	What literary genre or style are you drawing on? Is it narrative-driven or more poetic and associative? Or essayistic?
 
 This will be a fantasy piece, and the aesthetic will be whimsical and hazy to reflect the dreams. Colour will also be used to reflect the vibe of each story. For example, darker colours for more negative stages of the text and brighter colours for positivity.
 
+
 -	What is the story? Or what do you want to express/communicate through this piece?
 
 I want this to feel like a journey for the reader, that they’re following the character through these places on the map and experiencing good and bad things that reflect aspects of good dreams and nightmares. 
+
 
 -	What do you wish the reader to understand or feel?
 
@@ -85,9 +95,11 @@ I’m not entirely sure what I want to express to the reader or what the ‘mess
 
 The main momentum will be the ability to click through the main dream world map, which appears at the very beginning and after each short story. The reader's goal is to enter each destination on the map until they’ve all been read and the reveal at the end can occur. 
 
+
 -	How does the digital feed into this momentum?
 
 The digital is the momentum. It’s the reader’s ability to interact with the image map that moves the piece along.
+
 
 -	How does the literary and the digital drive the momentum together with the piece’s thematics?
 
@@ -104,17 +116,21 @@ Brainstorming my ideas on a Word document is my plan to develop those ideas, so 
 
 Each short story will (potentially) be around 800-1000 words, so, about 4000 altogether. This could turn out to be lower as I think more about the story.
 
+
 - How many screens?
 
 There will be four short stories and then the map.
+
 
 - What do you need to do on a week-by-week basis (is this realistic?)
 
 Resolving the stories plots this week would be great so I can start writing as soon as possible. I would like to have these stories done by week 10.
 
+
 - What is the tech that might get you stuck? what is the workaround/Plan B?
 
 What I've planned to do so far on Twine sounds very doable, I don't think my ideas are too technical that I won't be able to achieve.
+
   
 - What else might be an obstacle?
 
@@ -134,9 +150,11 @@ The plot I've planned out is solid and very structured becuase I didn't want to 
 
 My expectations were something about hoping to learn a lot of new things and see where coding and digital writing took my own writing, both in itself and the structure of it. I've learnt a lot about digital writing and coding like I expected, and have been familiarising myself mostly with Twine and Glitch over the semester. Learning how to make interactive fiction on Twine has been very interesting and where I've learnt the most.
 
+
 - How has your creative writing practice developed? Are there new directions? Or perhaps it has confirmed something about your practice as it was?
 
 My practice has developed through this new knowledge of coding on digital platforms. Other than that, my writing itself hasn't changed much, it's how I'm displaying my writing for this class (digitally) which is different.
+
 
 - What particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
 
