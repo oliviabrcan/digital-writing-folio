@@ -42,4 +42,11 @@ I thought it was cool how the letters take shape of the person standing in front
 
 ## Week 5
 
+## Aarseth's Reading
+
 - What do you think of Aarseth's concept? Explain how it offers an alternative to conventional ideas of narrative and the role of reader and writer?
+
+Aarseth’s ideas and concepts were all things I hadn’t thought about that deeply and informed me to new ways of thinking. Many things were discussed, but one of the first points raised was the question of where hypertexts and electronic literature in general belong. Unlike physical books, it cannot be reproduced for consumers and will always belong to the platform it was published on and the author themselves. People can’t buy their own copy and keep it on a bookshelf and even though that’s obvious now that I read about it, it’s crazy to think about this idea of belonging, and how not all literature has that option. Additionally, it feels like the reader is just passing by, never sticking around after reading the piece. Whereas with a physical book, they read it and keep it close by, probably also somewhere on display like a bookshelf.
+
+Referring to the narrative and roles of the writer and readers, there’s a lot of separation. Narrative isn’t always part of a hypertext, and the writer always has control over the text despite any interactivity because the writer created everything and just gave the options to the reader. Aarseth also mentions at one point that the writer can “change or add parts to the text, without any reader’s knowledge” (p. 81) which kind of feels like a betrayal. However, I do think that with electronic literature, specifically interactive fiction, the writer's text can’t function without a reader, therefore they must work together to see the piece as it should be seen.
+
