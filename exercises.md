@@ -159,3 +159,16 @@ My practice has developed through this new knowledge of coding on digital platfo
 - What particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
 
 I don't think I want to work on Twine or any other digital writing platform professionally, but maybe I would play around with it for fun or in my free time. In saying that, I prefer analogue writing a lot more compared to digital writing, maybe becuase it's easier, or maybe becuase it's just what I'm used to and a lot more accessible and popular with readers.
+
+## Refelction - (14/05/25)
+
+- What has inspired your final project?
+
+The ability for reader interaction has been a big influence on what I wanted and gradually planned for my final piece. I didn't always understand the scope of interactive fiction and just how much work it takes to have, for example, choices that lead to different plot lines. It sounds easy when you say it, but it's not only the coding which takes a lot of work, but having to write each new storyline is a lot. The ELC piece I presented on for assignment one really opened my eyes to the realistic possibilities of interactive fiction, and how you can provide readers with choices, while following a singualr plotline (without branches). 
+
+- What knowledge from this studio are you using to create this final project?
+
+As I said, other peoples digital pieces have been very inspiring and it's been great to see what might be achievable for me through Twine. Everything I've been taught in class has been helpful because I didn't have any prior knowledge. Having step by step instructions on how to do different things on Twine has been helpful and I'm taking all of that information with me as I work on my final project.
+
+
+
